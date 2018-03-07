@@ -1,8 +1,7 @@
-﻿var http=require('http');
-var https = require('https');
+﻿var https = require('https');
 var fs=require('fs');
 var cheerio=require('cheerio');
-var request=require('request');
+// var request=require('request');
 var iconv = require('iconv-lite');
 var url='https://www.ybdu.com/xiaoshuo/13/13607/';
 
